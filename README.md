@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BrendaL0pes
-- 🌱 I’m currently learning  Java 
+Olá, esse é o meu perfil
 
 
 <!---
