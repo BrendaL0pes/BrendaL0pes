@@ -1,4 +1,4 @@
-Olá, esse é o meu perfil
+Hi, i am Brenda, a undergraduate student in software engineering. My focus is game development and sometimes front-end :) 
 
 
 <!---
