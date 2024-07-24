@@ -1,4 +1,4 @@
-Hi, i am Brenda, a undergraduate student in software engineering. My focus is game development and sometimes front-end :) 
+Hi, i am Brenda, a undergraduate student in software engineering. My focus is game and front-end development :) 
 
 
 <!---
