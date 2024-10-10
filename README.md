@@ -1,4 +1,12 @@
-Hi, i am Brenda, a undergraduate student in software engineering.  :) 
+### Hello my name is Brenda, a undergraduate student in Software Engineering from Brazil 🇧🇷 🪩
+
+ 
+
+  <h2 align="left"> ⚙️ My tech stack 🧰  </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,github,git,flask," />
+<div>  
 
 
 <!---
