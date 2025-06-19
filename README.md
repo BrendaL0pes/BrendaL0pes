@@ -1,8 +1,9 @@
-welcome buddy
+
+  <h2 align="left">  welcome buddy  </h2>
 
  
 
-  <h2 align="left"> ⚙️ My tech stack 🧰  </h2>
+  <h2 align="left">  My tech stack 🧰  </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,github,git,flask," />
