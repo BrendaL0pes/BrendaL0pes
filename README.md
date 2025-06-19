@@ -1,4 +1,4 @@
-### Hello my name is Brenda, a undergraduate student in Software Engineering from Brazil 🇧🇷 🪩
+welcome buddy
 
  
 
