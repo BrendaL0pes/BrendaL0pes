@@ -9,7 +9,7 @@ I enjoy applying what I learn in Software Engineering to enhance and optimize ev
   <h2 align="left">  My tech stack 🧰  </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,github,git,flask," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,github,git,flask,nextjs,react,postgres" />
 <div>  
 
 
