@@ -39,14 +39,14 @@ Software Engineering in the making
 
 ### ⚡ Além do Terminal (Beyond the Code)
 
-*   🎲 **Aventureira de RPG:** Sempre pronta para interpretar um bardo humano com seu corvo.
-*   🎵 **Foco & Música:** Treinando a coordenação motora da mão esquerda nos estudos de contrabaixo.
-*   ✂️ **Arte:** Entusiasta de colagem artística e design com pegada minimalista e estética "neon tech".
+*   🎲 **
+*   🎵 **Foco & Música:**
+*   ✂️ **Arte:** Entusiasta de colagem, journaling
 
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brendamedeiros)
-[![Portfolio](https://img.shields.io/badge/Portfolio-cb6ce6?style=for-the-badge&logo=Vercel&logoColor=white)](https://brendalopes.dev) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@brendalopes.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brenda-lopes-developer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cb6ce6?style=for-the-badge&logo=Vercel&logoColor=white)](https://swe-brendalopes-dev.pages.dev) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brendamedeiroslopes1@gmail.com)
