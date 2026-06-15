@@ -30,10 +30,8 @@ Software Engineering in the making
 
 ### 🔭 Foco Atual (What I'm working on)
 
-*   **🛡️ Pesquisa Ativa:** Investigando metodologias de ataque e prevenção de fraudes em sistemas de pagamento (PIX).
-*   **🖐️ Inovação & UX:** Desenvolvendo experimentos de controle de interface por gestos manuais usando OpenCV.
 *   **🤖 Engenharia Orientada a IA:** Explorando *Spec-Driven Development (SDD)* e construindo agentes inteligentes com o framework Agno.
-*   **🏛️ Comunidade:** Atuação direta em gestão e documentação técnica no Diretório Acadêmico (DAES).
+*  
 
 ---
 
