@@ -3,6 +3,7 @@
 **Estudante de Engenharia de Software na UNIPAMPA | Desenvolvedora Full-Stack | Entusiasta em Arquitetura de Sistemas**
 
 Software Engineering in the making
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
@@ -35,11 +36,11 @@ Software Engineering in the making
 
 ---
 
-### ⚡ Além do Terminal (Beyond the Code)
+### ⚡ (Beyond the Code)
 
-*   🎲 **
-*   🎵 **Foco & Música:**
-*   ✂️ **Arte:** Entusiasta de colagem, journaling
+*   🎲 ** college keep me away from games :(
+*   🎵 **Foco & Música:** Addicted to The Warning Band
+*   ✂️ **Art:** journaling, collage, D.I.Y
 
 ---
 
