@@ -3,7 +3,8 @@
 **Estudante de Engenharia de Software na UNIPAMPA | Desenvolvedora Full-Stack | Entusiasta em Arquitetura de Sistemas**
 
 Software Engineering in the making
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](https://raw.githubusercontent.com/BrendaL0pes/github-profile-3d-contrib/main/profile-3d-contrib/profile-custom-rainbow.svg)
+
 
 ---
 
