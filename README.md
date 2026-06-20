@@ -40,9 +40,9 @@ Software Engineering in the making
 
 ### ⚡ (Beyond the Code)
 
-*   🎲 ** college keep me away from games :(
+*   🎲 ** college keeps me away from games :(
 *   🎵 **Foco & Música:** Addicted to The Warning Band
-*   ✂️ **Art:** journaling, collage, D.I.Y
+*   ✂️ **Art:** journaling, collage, D.I.Y, cooking for my friends
 
 ---
 
