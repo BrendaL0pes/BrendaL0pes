@@ -34,7 +34,7 @@ Software Engineering in the making
 ### 🔭 Foco Atual (What I'm working on)
 
 *   **🤖 Engenharia Orientada a IA:** Explorando *Spec-Driven Development (SDD)* e construindo agentes inteligentes com o framework Agno.
-*  
+   
 
 ---
 
